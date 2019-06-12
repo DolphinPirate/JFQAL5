@@ -13,6 +13,7 @@ public class Main {
         playWithCar(car); // вызвали метод. Передали объект (данные) в метод что бы последовательно вызвать его методы
     }
 
+    //
     // описали логику работы с объектом Car.
     // Избежали "Дублирующийся код" (см. ниже) для SportCar, SimpleCar
     static void playWithCar(Car car) {
